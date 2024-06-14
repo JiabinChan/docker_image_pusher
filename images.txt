@@ -6,11 +6,12 @@
 # --platform=linux/arm64 xiaoyaliu/alist    
 # maiimages/mindfall:2.1  
 # maiimages/keda-metrics-apiserver:2.11.0.2
+maiimages/keda-metrics-apiserver:2.8.0.2
 # maiimages/keda-operator:2.11.0.2
 # maiimages/keda-operator:2.8.0.2
 # maiimages/distroless-static-nonroot:2.0
 # maiimages/keda-build-tools:1.20.5
-maiimages/gateway:0.27.5
-maiimages/gateway:0.27.4
-maiimages/gateway:0.27.3
-maiimages/faas-netes:0.17.2
+# maiimages/gateway:0.27.5
+# maiimages/gateway:0.27.4
+# maiimages/gateway:0.27.3
+# maiimages/faas-netes:0.17.2
