@@ -1,14 +1,9 @@
 # nginx    
 #支持私库    
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-
 # xhofe/alist:latest      
 #支持指定架构    
 # --platform=linux/arm64 xiaoyaliu/alist    
-
 # maiimages/mindfall:2.1  
-maiimages/keda-metrics-apiserver:2.11.0.2  
-maiimages/keda-metrics-apiserver:2.8.0.2      
-maiimages/keda-operator:2.11.0.2  
-maiimages/keda-operator:2.8.0.2  
-
+maiimages/keda-metrics-apiserver:2.11.0.2
+maiimages/keda-operator:2.11.0.2
