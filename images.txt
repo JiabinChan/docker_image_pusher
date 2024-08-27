@@ -15,5 +15,6 @@
 # maiimages/gateway:0.27.4
 # maiimages/gateway:0.27.3
 # maiimages/faas-netes:0.17.2
-# istio/pilot:1.13.8
-istio/proxyv2:1.13.8
+# istio/pilot:1.13.8  
+# istio/proxyv2:1.13.8
+emqx/emqx:4.4.4
